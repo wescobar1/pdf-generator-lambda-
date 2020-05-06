@@ -1,2 +1,4 @@
 # pdf-generator-lambda-
-due to the limitations of single page applications, a standalone pdf function must be made .
+two functions, one which produces a high quality pdf using puppeteer headless chrome 
+
+other function connected as a lambda edge to check and cache documents on cloudfront 
